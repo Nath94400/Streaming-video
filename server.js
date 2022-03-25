@@ -125,6 +125,6 @@ app.get('/', function(req, res) {
 
 // Ceci est la dernière instruction du fichier, veillez à la garder tout en bas par la suite
 app.listen(3001, function () {
-    console.log('Listening on port 3000!')
+    console.log('Listening on port 3001!')
 })
 
