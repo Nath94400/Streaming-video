@@ -1,0 +1,11 @@
+{
+  "name": "streaming-video",
+  "version": "1.0.0",
+  "description": "Server de streaming video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nath",
+  "license": "ISC"
+}
